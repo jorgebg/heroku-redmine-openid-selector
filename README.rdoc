@@ -1,5 +1,17 @@
-= Redmine
+= Redmine demo for Heroku with the OpenID Selector plugin installed
 
+This is an example installation of a working Redmine 1.3.1 with plugin OpenID Selector plugin.
+
+You can find a working instance here:
+http://redmine-openid-selector.heroku.com/
+
+== About the plugin
+https://github.com/jorgebg/redmine-openid-selector
+
+== About Redmine
 Redmine is a flexible project management web application written using Ruby on Rails framework.
 
 More details can be found in the doc directory or on the official website http://www.redmine.org
+
+== About heroku
+http://www.heroku.com/
