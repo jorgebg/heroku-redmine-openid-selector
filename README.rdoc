@@ -5,7 +5,7 @@ This is an example installation of a working Redmine 1.3.1 with the OpenID Selec
 You can find a working instance here:
 http://redmine-openid-selector.heroku.com
 
-Remember to execute +rake db:migrate+.
+Remember to execute *rake db:migrate*.
 
 == About the plugin
 https://github.com/jorgebg/redmine-openid-selector
